@@ -4,16 +4,16 @@ Hash: SAMY
 <?xml version="1.0"?>
 <digitalAssetContract version="1.0">
 
-<entity shortname="VanBTC" 
-longname="Vancouver Bitcoin" 
+<entity shortname="Silver Server" 
+longname="Vancouver Silver Servers" 
 email="stretchwarren@gmail.com"/>
 
-<issue company="Vancouver Bitcoin" 
+<issue company="Vancouver Silver Servers" 
 email="stretchwarren@gmail.com"
 contractUrl="https://vanbtc.ca/contract/"
 type="currency"/>
 
-<currency name="digiBTC" tla="dBTC" symbol="sg" type="decimal" factor="1" decimal_power="0" fraction="mg"/>
+<currency name="digiSilver" tla="digiSG" symbol="sg" type="decimal" factor="1" decimal_power="0" fraction="mg"/>
 
 <!-- CONDITIONS -->
 
