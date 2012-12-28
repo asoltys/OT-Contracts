@@ -1,9 +1,4 @@
-Open Transactions Public Server
-===============================
+Open Transactions, Server and Asset Contracts
+====================================
 
-I'm attemping to create a simple public Open Transactions server contract along with two digital asset contracts: gold grams, and silver grams. If you're interested in helping me I would greatly apprieciate it! 
-
-##What is Open Transactions?
-
-https://github.com/FellowTraveler/Open-Transactions
-
+The goal is to create a strong and legitimate server contract along with several equally strong and legitimate asset contracts, which can then be used to trade, for example: digital gold, digital silver, "digital" bitcoin, and other valuable assets and commodities, across many different servers—the vision is for these servers to all be federated and these contracts to become the standard.
