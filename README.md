@@ -8,15 +8,17 @@ to be low-trust and federated, using voting pools to secure and release assets w
 
 See: https://github.com/FellowTraveler/Open-Transactions
 
+###What's been done, and what I'd like to do
+
+I currently have two basic asset contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
+these asset contracts—as well as all of this project's future contracts—into proper technical and legal documents 
+that can be used on plug and play for-profit servers.
+
 ###Completed and working on:
 * Completed: basic Digital Silver Grams asset contract
 * Completed: basic Digital Gold Grams asset contract
 * Working on: hosting basic public server
 * Working on: publishing basic public server contract
 
-###What's been done, and what I'd like to do
 
-I currently have two basic asset contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
-these asset contracts—as well as all of this project's future contracts—into proper technical and legal documents 
-that can be used on plug and play for-profit servers.
 
