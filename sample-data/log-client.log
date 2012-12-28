@@ -1,0 +1,625 @@
+OTCaller::setCallback: Attempting to set the password OTCallback pointer...
+OTCaller::setCallback: FYI, the password OTCallback pointer was set.
+Wallet_ImportCert: Null: DISPLAY_NAME passed in!
+OT_ASSERT in OTAPI.cpp at line 1663
+OTCaller::setCallback: Attempting to set the password OTCallback pointer...
+OTCaller::setCallback: FYI, the password OTCallback pointer was set.
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTCaller::callTwo: FYI, Executing password callback (two)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTCaller::callTwo: FYI, Executing password callback (two)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTPseudonym::Loadx509CertAndPrivateKey: File does not exist: certs/AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa
+OTPseudonym::LoadPrivateNym OT_API::Wallet_ImportCert: Failure calling Loadx509CertAndPrivateKey: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa
+OTWallet::GetOrLoadPrivateNym OT_API::Wallet_ImportCert: Unable to load private Nym for: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa 
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTCaller::callTwo: FYI, Executing password callback (two)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+OTAsymmetricKey::SetKeyAsCopyOf: ASSERT: NULL != m_pKey 
+
+OT_ASSERT in OTAsymmetricKey.cpp at line 845
+OTCaller::setCallback: Attempting to set the password OTCallback pointer...
+OTCaller::setCallback: FYI, the password OTCallback pointer was set.
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+
+=====>BEGIN Sending createUserAccount message via ZMQ... Request number: 1
+
+=====>BEGIN Sending getRequest message via ZMQ... Request number: 1
+Received new request number from the server: 100. Updating Nym records...
+Creating Request Number entry as '100'. Saving...
+Error: Attempt to add Asset Contract but it is already in the wallet.
+
+=====>BEGIN Sending issueAssetType message via ZMQ... Request number: 100
+Saving updated account file to disk...
+Error: Attempt to add Asset Contract but it is already in the wallet.
+
+=====>BEGIN Sending issueAssetType message via ZMQ... Request number: 101
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 102
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 103
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 104
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 105
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 106
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 107
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending createUserAccount message via ZMQ... Request number: 1
+
+=====>BEGIN Sending getRequest message via ZMQ... Request number: 1
+Received new request number from the server: 100. Updating Nym records...
+Creating Request Number entry as '100'. Saving...
+
+=====>BEGIN Sending createAccount message via ZMQ... Request number: 108
+Saving updated account file to disk...
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 109
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 110
+Saving updated account file to disk...
+
+=====>BEGIN Sending createAccount message via ZMQ... Request number: 111
+Saving updated account file to disk...
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 112
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 113
+Saving updated account file to disk...
+
+=====>BEGIN Sending createAccount message via ZMQ... Request number: 100
+Saving updated account file to disk...
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 101
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 114
+Saving updated account file to disk...
+
+=====>BEGIN Sending createAccount message via ZMQ... Request number: 102
+Saving updated account file to disk...
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 103
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 115
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 104
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 105
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 116
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 117
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 118
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 119
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 120
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 106
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 107
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 121
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 108
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 122
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 123
+Saving updated account file to disk...
+Failed getting NymboxHash from Nym for server: tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1
+
+=====>BEGIN Sending getTransactionNum message via ZMQ... Request number: 124
+Received server response to Get Transaction Num message.
+
+=====>BEGIN Sending getNymbox message via ZMQ... Request number: 125
+Received server response to getNymbox request: success 
+OTTransaction::LoadBoxReceipt: Box receipt does not exist: nymbox/tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1/AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa.r/508.rct
+
+=====>BEGIN Sending getBoxReceipt message via ZMQ... Request number: 126
+Received server response to getBoxReceipt request: success 
+
+=====>BEGIN Sending processNymbox message via ZMQ... Request number: 127
+Received server response: @processNymbox 
+OTPseudonym::UpdateHighestNum: Creating Highest Transaction Number entry for this server as '607'.
+
+=====>BEGIN Sending getNymbox message via ZMQ... Request number: 128
+Received server response to getNymbox request: success 
+OTTransaction::LoadBoxReceipt: Box receipt does not exist: nymbox/tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1/AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa.r/608.rct
+
+=====>BEGIN Sending getBoxReceipt message via ZMQ... Request number: 129
+Received server response to getBoxReceipt request: success 
+
+=====>BEGIN Sending processNymbox message via ZMQ... Request number: 130
+Received server response: @processNymbox 
+
+=====>BEGIN Sending notarizeTransactions message via ZMQ... Request number: 131
+Received server response to notarize Transactions message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 132
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 133
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 134
+Received server response to Get Outbox message.
+OTTransaction::LoadBoxReceipt: Box receipt does not exist: outbox/tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1/RidobdM0WghHHZxU4prj4RSjrLCXh1VUBWpgOGJ1RFH.r/611.rct
+
+=====>BEGIN Sending getBoxReceipt message via ZMQ... Request number: 135
+Received server response to getBoxReceipt request: success 
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 136
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 137
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 138
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 139
+Received server response to Get Inbox message.
+OTTransaction::LoadBoxReceipt: Box receipt does not exist: inbox/tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1/4ETNxmu34uEZqy4mVJXsAxEx7yBvFMJMzq8WIwjjpS6.r/611.rct
+
+=====>BEGIN Sending getBoxReceipt message via ZMQ... Request number: 140
+Received server response to getBoxReceipt request: success 
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 141
+Saving updated account file to disk...
+Ledger_FinalizeResponse: Checking client-side inbox for expected pending or receipt transaction: 607...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 142
+Saving updated account file to disk...
+processInbox: 
+SERVER_ID: tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1 
+USER_ID: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa 
+ACCT_ID: 4ETNxmu34uEZqy4mVJXsAxEx7yBvFMJMzq8WIwjjpS6 
+ACCT_LEDGER:
+-----BEGIN SIGNED LEDGER-----
+Hash: SAMY
+
+<accountLedger version="1.0"
+ type="message"
+ numPartialRecords="0"
+ accountID="4ETNxmu34uEZqy4mVJXsAxEx7yBvFMJMzq8WIwjjpS6"
+ userID="AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa"
+ serverID="tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1" >
+
+<transaction>
+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
+g/AlLHqSdcxfv5In6Lf/k7r/AuuBYMY=
+</transaction>
+
+</accountLedger>
+-----BEGIN LEDGER SIGNATURE-----
+Version: Open Transactions 0.87.h
+Comment: http://github.com/FellowTraveler/Open-Transactions/wiki
+
+CoABcLKI1+C/JRGPFgwmk0inhKITBNVsPpdXDemWpE34JmX0y8LTW1xhDJCWSHwi
+HZfFIiF4n83x0IJRIIYifkZmgWvP/JpB6kWjNajFhmphQp2D/wl3lkHJMedTJ/pz
+MSzTFF41iXCq5yxk4TWz268yvUutw1iiWSNiFwWd7laL0cw=
+-----END LEDGER SIGNATURE-----
+
+processInbox: 
+
+
+SERVER_ID: tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1 
+USER_ID: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa 
+ACCT_ID: 4ETNxmu34uEZqy4mVJXsAxEx7yBvFMJMzq8WIwjjpS6 
+ACCT_LEDGER:
+-----BEGIN SIGNED LEDGER-----
+Hash: SAMY
+
+<accountLedger version="1.0"
+ type="message"
+ numPartialRecords="0"
+ accountID="4ETNxmu34uEZqy4mVJXsAxEx7yBvFMJMzq8WIwjjpS6"
+ userID="AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa"
+ serverID="tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1" >
+
+<transaction>
+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
+g/AlLHqSdcxfv5In6Lf/k7r/AuuBYMY=
+</transaction>
+
+</accountLedger>
+-----BEGIN LEDGER SIGNATURE-----
+Version: Open Transactions 0.87.h
+Comment: http://github.com/FellowTraveler/Open-Transactions/wiki
+
+CoABcLKI1+C/JRGPFgwmk0inhKITBNVsPpdXDemWpE34JmX0y8LTW1xhDJCWSHwi
+HZfFIiF4n83x0IJRIIYifkZmgWvP/JpB6kWjNajFhmphQp2D/wl3lkHJMedTJ/pz
+MSzTFF41iXCq5yxk4TWz268yvUutw1iiWSNiFwWd7laL0cw=
+-----END LEDGER SIGNATURE-----
+
+
+=====>BEGIN Sending processInbox message via ZMQ... Request number: 143
+Received server response: @processInbox 
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 144
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 145
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 146
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 147
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 148
+Saving updated account file to disk...
+OTCaller::callOne: FYI, Executing password callback (one)...
+OTCaller::GetPassword: FYI, returning password after invoking a (probably Java) password dialog.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 149
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 150
+Saving updated account file to disk...
+
+=====>BEGIN Sending notarizeTransactions message via ZMQ... Request number: 151
+Received server response to notarize Transactions message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 152
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 153
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 154
+Received server response to Get Outbox message.
+OTTransaction::LoadBoxReceipt: Box receipt does not exist: outbox/tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1/PUVAEIyuJ1nKj3Cf1pnSiXrV2cuhoelMD7xmBvd4fdS.r/615.rct
+
+=====>BEGIN Sending getBoxReceipt message via ZMQ... Request number: 155
+Received server response to getBoxReceipt request: success 
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 156
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 157
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 158
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 159
+Received server response to Get Inbox message.
+OTTransaction::LoadBoxReceipt: Box receipt does not exist: inbox/tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1/3tjQV6lWaAmS6VqJvdc9Dy6cDcdA8xvcqUSqUsXOxIe.r/615.rct
+
+=====>BEGIN Sending getBoxReceipt message via ZMQ... Request number: 160
+Received server response to getBoxReceipt request: success 
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 161
+Saving updated account file to disk...
+Ledger_FinalizeResponse: Checking client-side inbox for expected pending or receipt transaction: 605...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 162
+Saving updated account file to disk...
+processInbox: 
+SERVER_ID: tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1 
+USER_ID: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa 
+ACCT_ID: 3tjQV6lWaAmS6VqJvdc9Dy6cDcdA8xvcqUSqUsXOxIe 
+ACCT_LEDGER:
+-----BEGIN SIGNED LEDGER-----
+Hash: SAMY
+
+<accountLedger version="1.0"
+ type="message"
+ numPartialRecords="0"
+ accountID="3tjQV6lWaAmS6VqJvdc9Dy6cDcdA8xvcqUSqUsXOxIe"
+ userID="AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa"
+ serverID="tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1" >
+
+<transaction>
+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
+bWanQmI1kIoxvv8hTzSF/0PdfwE7Mlyp
+</transaction>
+
+</accountLedger>
+-----BEGIN LEDGER SIGNATURE-----
+Version: Open Transactions 0.87.h
+Comment: http://github.com/FellowTraveler/Open-Transactions/wiki
+
+CoABQDtgdBb1jgvk+tPFXP3A+2i8Kfb4j0wlxTsQiBRrXwT6iDug+Rz0Ma817Or9
+BeeBqKQM6dKc0KDNpRSGK/z3iVYQdR3lZeRbmCJ3zAoyg8+IjHvOndISisKfCd0S
+ay7PpbHph6oFwesiJmWjxhAqpABuDI1/TyP3D3B8JRlMtEs=
+-----END LEDGER SIGNATURE-----
+
+processInbox: 
+
+
+SERVER_ID: tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1 
+USER_ID: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa 
+ACCT_ID: 3tjQV6lWaAmS6VqJvdc9Dy6cDcdA8xvcqUSqUsXOxIe 
+ACCT_LEDGER:
+-----BEGIN SIGNED LEDGER-----
+Hash: SAMY
+
+<accountLedger version="1.0"
+ type="message"
+ numPartialRecords="0"
+ accountID="3tjQV6lWaAmS6VqJvdc9Dy6cDcdA8xvcqUSqUsXOxIe"
+ userID="AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa"
+ serverID="tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1" >
+
+<transaction>
+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
+bWanQmI1kIoxvv8hTzSF/0PdfwE7Mlyp
+</transaction>
+
+</accountLedger>
+-----BEGIN LEDGER SIGNATURE-----
+Version: Open Transactions 0.87.h
+Comment: http://github.com/FellowTraveler/Open-Transactions/wiki
+
+CoABQDtgdBb1jgvk+tPFXP3A+2i8Kfb4j0wlxTsQiBRrXwT6iDug+Rz0Ma817Or9
+BeeBqKQM6dKc0KDNpRSGK/z3iVYQdR3lZeRbmCJ3zAoyg8+IjHvOndISisKfCd0S
+ay7PpbHph6oFwesiJmWjxhAqpABuDI1/TyP3D3B8JRlMtEs=
+-----END LEDGER SIGNATURE-----
+
+
+=====>BEGIN Sending processInbox message via ZMQ... Request number: 163
+Received server response: @processInbox 
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 164
+Saving updated account file to disk...
+
+=====>BEGIN Sending getInbox message via ZMQ... Request number: 165
+Received server response to Get Inbox message.
+
+=====>BEGIN Sending getOutbox message via ZMQ... Request number: 166
+Received server response to Get Outbox message.
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 167
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 168
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 109
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 169
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 170
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 171
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 172
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 173
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 174
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 175
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 176
+Saving updated account file to disk...
+
+=====>BEGIN Sending getAccount message via ZMQ... Request number: 177
+Saving updated account file to disk...
+Passphrase request for: "Enter the master passphrase. (LoadPrivateKeyFromCertString)"
+Using as server: tBy5mL14qSQXCJK7Uz3WlTOKRP9M0JZksA3Eg7EnnQ1
+Using as mynym: AwScW6VNV5uiKj3DweDz0JSdukAcOuJUSKvm3H9hnHa
+
+.
+..
+...
+....
+.....
+
+opentxs> .
+..
+...
+....
+.....
+
+opentxs> 
