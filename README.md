@@ -26,10 +26,12 @@ Copy the contents of the /sample-data directory into your ~/.ot directory.
 
 ###Smart Contracts
 
-The first smart contract I'd like to create would be used to monitor the blockchain and bail in and out 
-bitcoins in exchange for "digital" bitcoin (digiBTC?) automatically. It could be attached to a website or application etc; the user would enter his 
-bitcoin address and then send the BTC to the servers bitcoin address, when the smart contract sees that the transaction has been confirmed 
-on the blockchain it would then automattically issue digiBTC to the user's account.
+The first smart contract I would like to work on would be used to exchange bitcoins for "digital" bitcoins, or 
+"digiBTC". The smart contract could be used on a webpage, server, or within a mobile app to record the client's 
+wallet address and requested amount of digiBTC, the smart contract would then monitor and await a single blockchain 
+confirmation (or however many confirmations are set in the contract) of the transfer; once confirmed the smart 
+contract would tell the server to issue the digiBTC to the client. The whole operation would be reversed to exchange 
+the digiBTC for bitcoin.
 
 <br>
 <img align="center" src="http://i49.tinypic.com/161fiq9.png" alt="Moneychanger" />
