@@ -4,8 +4,8 @@ Open Transactions: Server, Smart, and Currency Contracts
 The goal is to create a variety of server and currency contracts, along with several different kinds of smart 
 contracts. These contracts can then be used to trade, for example: digital gold grams, digital silver grams, and 
 "digital" bitcoin, as well as other valuable currencies and commodities across many different servers—complimented by 
-smart contracts. The vision is for these servers to be low-trust and federated: securing and releasing currency 
-and commodities with zero risk.
+smart contracts. The vision is for these servers to be low-trust and federated: securing, transfering, and releasing 
+currencies with zero risk.
 
 See: https://github.com/FellowTraveler/Open-Transactions
 
@@ -23,7 +23,7 @@ that can be used on for-profit servers.
 
 ###How to use sample data
 
-Copy the contents of the /sample-data directory into your ~/.ot directory.
+Copy the contents of the /sample-data directory into your ~/.ot directory and then launch Open Transactions.
 
 ###Smart Contracts
 
