@@ -9,7 +9,7 @@ and commodities with zero risk.
 
 See: https://github.com/FellowTraveler/Open-Transactions
 
-###What's been done, and what I'd like to do
+###What's been done, and what I'm working on
 
 I currently have two basic currency contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
 these currency contracts—as well as all of this project's future contracts—into proper technical and legal documents 
