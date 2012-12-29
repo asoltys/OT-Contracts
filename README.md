@@ -13,7 +13,7 @@ See: https://github.com/FellowTraveler/Open-Transactions
 
 I currently have two basic currency contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
 these currency contracts—as well as all of this project's future contracts—into proper technical and legal documents 
-that can be used on plug and play for-profit servers.
+that can be used on for-profit servers.
 
 ###Completed and working on:
 * Completed: basic Digital Silver Grams currency contract
