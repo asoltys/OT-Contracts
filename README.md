@@ -1,10 +1,8 @@
-Open Transactions, Server and Asset Contracts
+Open Transactions: Server, Smart, and Currency Contracts
 =============================================
 
-The goal is to create a variety of strong and legitimate server contracts, along with several equally strong and 
-legitimate asset contracts—these contracts can then be used to trade, for example: digital gold, digital silver, "digital" 
-bitcoin, and other valuable assets and commodities, across many different servers. The vision is for these servers 
-to be low-trust and federated, securing and releasing assets and funds with zero risk.
+The goal is to create a variety of server contracts, along with several different kinds of smart contracts, and currency contracts—these contracts can then be used to trade, for example: digital gold, digital silver, "digital" bitcoin, and other valuable currencies and commodities, across many different servers, complimented by smart contracts. The vision is for these servers 
+to be low-trust and federated, securing and releasing currency and commodities with zero risk.
 
 See: https://github.com/FellowTraveler/Open-Transactions
 
