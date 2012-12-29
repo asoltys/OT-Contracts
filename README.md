@@ -8,8 +8,10 @@ See: https://github.com/FellowTraveler/Open-Transactions
 
 ###What's been done, and what I'm working on
 
-I currently have two basic currency contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
-these currency contracts—as well as all of this project's future contracts—into proper technical and legal documents 
+I currently have two basic currency contracts: <a href="https://github.com/stretch/OT-Contracts/blob/master/currency-
+contracts/digigold.xml">Digital Gold Grams</a>, and <a href="https://github.com/stretch/OT-Contracts/blob/master/
+currency-contracts/digisilver.xml">Digital Silver Grams</a>; I would like to develop these currency 
+contracts—as well as all of this project's future contracts—into proper technical and legal documents 
 that can be used on for-profit servers.
 
 ###Completed and working on:
