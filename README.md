@@ -20,6 +20,10 @@ that can be used on plug and play for-profit servers.
 * Working on: hosting basic public server
 * Working on: publishing basic public server contract
 
+###How to use sample data
+
+Copy the contents of the /sample-data directory into your ~/.ot directory.
+
 <br>
 <img align="center" src="http://i49.tinypic.com/161fiq9.png" alt="Moneychanger" />
 <br>
