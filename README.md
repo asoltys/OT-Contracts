@@ -1,20 +1,23 @@
 Open Transactions: Server, Smart, and Currency Contracts
 =============================================
 
-The goal is to create a variety of server contracts, along with several different kinds of smart contracts, and currency contracts—these contracts can then be used to trade, for example: digital gold, digital silver, "digital" bitcoin, and other valuable currencies and commodities, across many different servers, complimented by smart contracts. The vision is for these servers 
-to be low-trust and federated, securing and releasing currency and commodities with zero risk.
+The goal is to create a variety of server contracts, along with several different kinds of smart contracts, and 
+currency contracts—these contracts can then be used to trade, for example: digital gold, digital silver, 
+"digital" bitcoin, as well as other valuable currencies and commodities, across many different servers, complimented by 
+smart contracts. The vision is for these servers to be low-trust and federated, securing and releasing currency 
+and commodities with zero risk.
 
 See: https://github.com/FellowTraveler/Open-Transactions
 
 ###What's been done, and what I'd like to do
 
-I currently have two basic asset contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
-these asset contracts—as well as all of this project's future contracts—into proper technical and legal documents 
+I currently have two basic currency contracts: Digital Gold Grams, and Digital Silver Grams; I would like to develop
+these currency contracts—as well as all of this project's future contracts—into proper technical and legal documents 
 that can be used on plug and play for-profit servers.
 
 ###Completed and working on:
-* Completed: basic Digital Silver Grams asset contract
-* Completed: basic Digital Gold Grams asset contract
+* Completed: basic Digital Silver Grams currency contract
+* Completed: basic Digital Gold Grams currency contract
 * Working on: hosting basic public server
 * Working on: publishing basic public server contract
 
