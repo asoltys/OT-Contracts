@@ -13,8 +13,8 @@ contracts—as well as all of this project's future contracts—into proper tech
 that can be used on for-profit servers.
 
 ###Completed and working on:
-* Completed: basic Digital Silver Grams currency contract
-* Completed: basic Digital Gold Grams currency contract
+* Completed: basic <a href="https://github.com/stretch/OT-Contracts/blob/master/currency-contracts/digisilver.xml">Digital Silver Grams</a> currency contract
+* Completed: basic <a href="https://github.com/stretch/OT-Contracts/blob/master/currency-contracts/digigold.xml">Digital Gold Grams</a> currency contract
 * Working on: hosting basic public server
 * Working on: publishing basic public server contract
 
