@@ -20,8 +20,7 @@ that can be used on plug and play for-profit servers.
 * Working on: hosting basic public server
 * Working on: publishing basic public server contract
 
-
-
-<img align="center" src="http://i49.tinypic.com/24o153t.png" alt="Moneychanger" />
+<br>
+<img align="center" src="http://i49.tinypic.com/14vmoee.png" alt="Moneychanger" />
 
 
