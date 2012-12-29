@@ -21,6 +21,9 @@ that can be used on plug and play for-profit servers.
 * Working on: publishing basic public server contract
 
 <br>
+<img align="center" src="http://i49.tinypic.com/161fiq9.png" alt="Moneychanger" />
+<br>
+<br>
 <img align="center" src="http://i49.tinypic.com/14vmoee.png" alt="Moneychanger" />
 
 
