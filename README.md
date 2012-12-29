@@ -24,6 +24,13 @@ that can be used on plug and play for-profit servers.
 
 Copy the contents of the /sample-data directory into your ~/.ot directory.
 
+###Smart Contracts
+
+The first smart contract I'd like to create would be used to monitor the blockchain and bail in and out 
+bitcoins in exchange for digiBTC automatically. It could be attached to a website or application etc; the user would enter his 
+bitcoin address and then send the BTC to the servers bitcoin address, when the smart contract sees that the transaction has been confirmed 
+on the blockchain it would then automattically issue digiBTC to the user's account.
+
 <br>
 <img align="center" src="http://i49.tinypic.com/161fiq9.png" alt="Moneychanger" />
 <br>
