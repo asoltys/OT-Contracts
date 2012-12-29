@@ -22,3 +22,6 @@ that can be used on plug and play for-profit servers.
 
 
 
+<img align="center" src="http://i49.tinypic.com/24o153t.png" alt="Moneychanger" />
+
+
